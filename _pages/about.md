@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student
+subtitle: PhD student @ King's College London
 profile:
   align: right
   image: prof_pic.jpg

@@ -2,7 +2,7 @@
 layout: page
 permalink: /code/
 title: code
-description:
+description: Below is my personal Github account and selected git repositories.
 nav: true
 nav_order: 3
 ---
