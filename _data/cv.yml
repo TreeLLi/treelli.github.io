@@ -13,21 +13,21 @@
       institution: King's College London, London, UK
       year: 2023
       description:
-        - thesis: Towards More Robust Visual Classification through Improved Adversarial Training
+        - Towards More Robust Visual Classification through Improved Adversarial Training
         - supervised by Dr Michael Spratling and Dr Dimitrios Letsios
         - funded by King’s-China Scholarship Council (CSC) PhD Scholarship
     - title: Master of Science (MSc)
       institution: Imperial College London, London, UK
       year: 2018
       description:
-        - thesis: Understanding Deep CNNs via Interpretable Individual Units
+        - Understanding Deep CNNs via Interpretable Individual Units
         - supervised by Professor Wayne Luk
-        - grade: overall Distinction
+        - overall Distinction
     - title: Bachelor of Business Management (BBM)
       institution: Xiamen University, Xiamen, China
       year: 2017
       description:
-        - thesis: Quantitatively Measuring Investor’s Sentiment via Search Index
+        - Quantitatively Measuring Investor’s Sentiment via Search Index
         - supervised by Professor Zheng Qiao
 	
 - title: Experience
@@ -43,14 +43,14 @@
             - Develop automatic assessment for the coursework submissions
         - Introduction to Artificial Intelligence
 	
-    - title: Visiting Professor
+    - title: Tencent Intern
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
+    - title: Startup
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
       year: 1917-1933
 
