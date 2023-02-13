@@ -2,45 +2,47 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Lin Li
     - name: Languages
-      value: English, German
+      value: English, Mandarin, Southern Min
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD Candidate
+      institution: King's College London, London, UK
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - thesis: Towards More Robust Visual Classification through Improved Adversarial Training
+        - supervised by Dr Michael Spratling and Dr Dimitrios Letsios
+        - funded by King’s-China Scholarship Council (CSC) PhD Scholarship
+    - title: Master of Science (MSc)
+      institution: Imperial College London, London, UK
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
-
+        - thesis: Understanding Deep CNNs via Interpretable Individual Units
+        - supervised by Professor Wayne Luk
+        - grade: overall Distinction
+    - title: Bachelor of Business Management (BBM)
+      institution: Xiamen University, Xiamen, China
+      year: 2017
+      description:
+        - thesis: Quantitatively Measuring Investor’s Sentiment via Search Index
+        - supervised by Professor Zheng Qiao
+	
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Teaching Assistant
+      institution: King's College London, London, UK
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Machine Learning and Pattern Recognition
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Teach tutorials covering classic learning algorithms
+            - Develop automatic assessment for the coursework submissions
+        - Introduction to Artificial Intelligence
+	
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
@@ -78,18 +80,6 @@
     - year: 2029
       items: 
         - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
 - title: Other Interests
   type: list
