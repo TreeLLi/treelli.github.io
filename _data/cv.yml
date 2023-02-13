@@ -9,16 +9,13 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD Candidate
+      institution: King's College London, London, UK
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Towards More Robust Visual Classification through Improved Adversarial Training.
+        - supervised by Dr Michael Spratling and Dr Dimitrios Letsios.
+        - funded by King’s-China Scholarship Council (CSC) PhD Scholarship
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
