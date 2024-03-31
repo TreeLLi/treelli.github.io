@@ -2,9 +2,10 @@ github_users:
   - TreeLLi
 
 github_repos:
-  - TreeLLi/Instance-adaptive-Smoothness-Enhanced-AT
+  - TreeLLi/APT
   - TreeLLi/DA-Alone-Improves-AT
   - TreeLLi/Combating-RO-AdvLC
+  - TreeLLi/Instance-adaptive-Smoothness-Enhanced-AT
   - TreeLLi/CNTK-Hotel-pictures-classificator
   - TreeLLi/inner-detectors
   - TreeLLi/adversarial-robustness-toolbox
