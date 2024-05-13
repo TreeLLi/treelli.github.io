@@ -23,9 +23,9 @@ I am a PhD student in machine learning under the supervision of Dr [Michael Spra
 
 My research interests include
 
-* Trustworthy ML: robustness, safety and interpretability
-* [Data-centric ML](https://dcai.csail.mit.edu/): generative models for data augmentation
-* AI+ Applications: healthcare, finance
+* Trustworthy ML: robustness, AI safety, Alignment esp. for large multimodal models (LMMs) and LMM-based Autonomous Agents
+* [Data-centric ML](https://dcai.csail.mit.edu/): generative models for data augmentation, large-scale data profiling
+* AI+ Applications: healthcare, robotics, finance
 
 
 
