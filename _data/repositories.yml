@@ -3,6 +3,9 @@ github_users:
 
 github_repos:
   - TreeLLi/APT
+  - OODRobustBench/OODRobustBench
+  - TreeLLi/AROID
+  - Jianing-Qiu/Awesome-Healthcare-Foundation-Models
   - TreeLLi/DA-Alone-Improves-AT
   - TreeLLi/Combating-RO-AdvLC
   - TreeLLi/Instance-adaptive-Smoothness-Enhanced-AT
