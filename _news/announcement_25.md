@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-02-15 10:50:00-0400
+date: 2025-01-21 10:50:00-0400
 inline: true 
 ---
 
-My first-authored work, [Robust shortcut and disordered robustness: Improving adversarial training through adaptive smoothing](https://www.sciencedirect.com/science/article/pii/S0031320325001347), is online now at the Pattern Recognition (PR).
+I gave an invited talk, titled "Prompting Vision-Language Models for Accuracy and Robustness", at the [Computational Health Informatics (CHI)](https://eng.ox.ac.uk/chi/) Lab in the Department of Engineering Science at Oxford.
