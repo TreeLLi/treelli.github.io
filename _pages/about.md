@@ -18,7 +18,6 @@ I am a PhD student supervised by Prof. [Michael Spratling](https://nms.kcl.ac.uk
 My research interests include
 
 * Hallucination in (multimodal) LLMs
-* Jailbreaking and safety alignment
-* Adversarial machine learning
-* LLM Agent
+* LLM Jailbreaking, Safety Alignment, and Adversarial ML
+* AI Society and LLM Agent
 * AI+ Applications: healthcare, robotics, business
