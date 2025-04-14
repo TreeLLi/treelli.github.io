@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: firstname.lastname@cs.ox.ac.uk
 profile:
