@@ -10,6 +10,9 @@ body {
   h1, h2, h3, h4, h5, h6 {
     scroll-margin-top: 66px;
   }
+  h2 {
+    margin-top: 5px;
+  }
 }
 
 body.fixed-top-nav {
@@ -30,6 +33,7 @@ body.sticky-bottom-footer {
 .profile {
   img {
     width: 100%;
+    max-width: 250px;
   }
 }
 
