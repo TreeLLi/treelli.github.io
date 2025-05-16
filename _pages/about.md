@@ -7,6 +7,9 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+  address: >
+    <p>Room 30.02 Wolfson Building</p>
+    <p>14 Parks Rd, Oxford OX1 3QG</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -24,5 +27,5 @@ My research interests include
 * AI Society and LLM Agent
 * AI+ Applications: healthcare, robotics, business
 
-I'm always open to **collaboration** and **connection**, so feel free to get in touch! I'm also looking for self-motivated students to explore exciting research directions together — if you're interested, reach out and let's grab a coffee (to update my selfie here 😄).
+I'm always happy 😄 to **collaboration** and **connection**, so feel free to get in touch! I'm also looking for self-motivated students to explore exciting research directions together — if you're interested, reach out and let's grab a coffee ☕.
 
