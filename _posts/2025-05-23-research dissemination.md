@@ -51,7 +51,7 @@ _styles: >
 
 In today's academic and technical fields, conducting high-quality research is only part of the journey. Equally important is disseminating your work effectively—**making sure your contributions are seen, understood, and built upon by others**. This not only increases the impact of your work but also strengthens your profile, opens doors for collaborations, and fuels your career growth.
 
-This post focuses on research dissemination within the academic community especially in the field of Artificial Intelligence (AI) / Machine Learning (ML). The insights are based on my personal experience, observations, and input from Yarin Gal, XX, and others. It is intended for PhD students and early-career researchers such as postdocs.
+This post focuses on research dissemination within the academic community especially in the field of Artificial Intelligence (AI) / Machine Learning (ML). The insights are based on my personal experience, observations, and input from Yarin Gal. It is intended for PhD students and early-career researchers such as postdocs.
 
 This post approaches research dissemination from two perspectives: **building your personal brand** and **promoting individual works**. These two aspects complement each other—a strong personal brand facilitates the dissemination of your work, while sharing your work actively reinforces your brand.
 
