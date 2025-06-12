@@ -27,5 +27,5 @@ My research interests include
 * AI Society and LLM Agent
 * AI+ Applications: healthcare, robotics, business
 
-I'm always happy 😄 to **collaboration** and **connection**, so feel free to get in touch! I'm also looking for self-motivated students to explore exciting research directions together — if you're interested, reach out and let's grab a coffee ☕.
+I'm always open to **collaboration** and **connection**, so feel free to get in touch! I'm also looking for self-motivated students to explore exciting research directions together — if you're interested, reach out and let's grab a (cyber) ☕.
 
