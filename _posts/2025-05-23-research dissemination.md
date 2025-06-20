@@ -5,7 +5,7 @@ description: Building Your Personal Brand and Disseminating Individual Works
 giscus_comments: true
 date: 2025-05-23
 tags: Productibility
-categories: 
+categories:
 
 authors:
   - name: Lin Li
