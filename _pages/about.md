@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hello! I'm a postdoctoral researcher in the [Oxford Applied and Theoretical Machine Learning (OATML)](https://oatml.cs.ox.ac.uk/) Group at the Department of Computer Science, University of Oxford, where I am advised by Prof. [Yarin Gal](https://www.cs.ox.ac.uk/people/yarin.gal/website/).
 
-I received my PhD from King’s College London, supervised by Prof. [Michael Spratling](https://mwspratling.codeberg.page/), an MSc in Computing from Imperial College London under Prof. [Wayne Luk](http://www.doc.ic.ac.uk/~wl/), and a B.M. in Finance from Xiamen University, advised by Prof. [Zheng Qiao](https://gr.xjtu.edu.cn/web/qiaozheng).
+I received my PhD from King’s College London, supervised by Prof. [Michael Spratling](https://mwspratling.codeberg.page/), an MSc in Computing from Imperial College London, advised by Prof. [Wayne Luk](http://www.doc.ic.ac.uk/~wl/), and a B.M. in Finance from Xiamen University, advised by Prof. [Zheng Qiao](https://gr.xjtu.edu.cn/web/qiaozheng).
 
 My research interests include
 

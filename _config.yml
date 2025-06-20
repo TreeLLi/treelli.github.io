@@ -7,7 +7,10 @@ first_name: Lin
 middle_name: 
 last_name: Li
 email: lin.li@cs.ox.ac.uk
-description: > Lin Li is a coffee-powered thinking machine yet standing at the human side.
+description: Lin Li is a coffee-powered thinking machine yet standing at the human side.
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: AI Safety  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
