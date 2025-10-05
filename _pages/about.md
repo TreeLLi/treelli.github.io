@@ -8,24 +8,18 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Room 30.02 Wolfson Building</p>
-    <p>14 Parks Rd, Oxford OX1 3QG</p>
+    <p>Per Aspera ad astra sdfs</p>
+    <p>循此苦旅，终抵群星</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm a postdoctoral researcher in the [Oxford Applied and Theoretical Machine Learning (OATML)](https://oatml.cs.ox.ac.uk/) Group at the Department of Computer Science, University of Oxford, where I am advised by Prof. [Yarin Gal](https://www.cs.ox.ac.uk/people/yarin.gal/website/).
+Hello! I'm a postdoctoral researcher in the [Oxford Applied and Theoretical Machine Learning (OATML)](https://oatml.cs.ox.ac.uk/) Group at the Department of Computer Science, University of Oxford, advised by Prof. [Yarin Gal](https://www.cs.ox.ac.uk/people/yarin.gal/website/). I lead a research project on the safety of multimodal foundational models as part of the €29M Horizon Europe project, [DVPS](https://dvps.translated.com/).
 
-I received my PhD from King’s College London, supervised by Prof. [Michael Spratling](https://mwspratling.codeberg.page/), an MSc in Computing from Imperial College London, advised by Prof. [Wayne Luk](http://www.doc.ic.ac.uk/~wl/), and a B.M. in Finance from Xiamen University, advised by Prof. [Zheng Qiao](https://gr.xjtu.edu.cn/web/qiaozheng).
+Before joining Oxford, I completed my PhD in Machine Learning at the Department of Informatics, King’s College London, supervised by Prof. [Michael Spratling](https://mwspratling.codeberg.page/). During my PhD, I also interned at [Tencent’s Robotics X Lab](https://roboticsx.tencent.com/#/), working with Prof. [Lipeng Chen](https://lipeng-chen.github.io/) on enabling robots to learn throwing and catching skills from human demonstrations.
 
-My research interests include
+My research interests include (1) **AI Safety**, including Hallucinations, Safety Alignment, Jailbreaking, Adversarial ML. (2) **LLM Agents** and **Social Simulation**. (3) **AI+ Applications** in healthcare, robotics, business. My work has been published in top AI/ML venues such as ICLR, ICML, CVPR, IJCV, and featured by major media outlets including [Süddeutsche Zeitung](https://www.sueddeutsche.de/wissen/sprachmodelle-halluzinationen-o3-o4-mini-zuverlaessigkeit-luegen-li.3249515?reduced=true) and [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3291840/hong-kong-ai-model-proves-more-accurate-doctors-diagnosing-eye-conditions?module=perpetual_scroll_0&pgtype=article) (南华早报).
 
-* Hallucination in (multimodal) LLMs
-* LLM Jailbreaking, Safety Alignment, and Adversarial ML
-* AI Society and LLM Agent
-* AI+ Applications: healthcare, robotics, business
-
-I'm always open to **collaboration** and **connection**, so feel free to get in touch! I'm also looking for self-motivated students to explore exciting research directions together — if you're interested, reach out and let's grab a (cyber) ☕.
-
+I'm always open to collaborations and connections, so feel free to get in touch! I'm also looking for self-motivated students to explore exciting research directions together — if you're interested, reach out and let's grab a (cyber) ☕.
