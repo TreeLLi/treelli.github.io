@@ -22,4 +22,6 @@ My research interests include (1) **AI Safety**, including Hallucinations, Safet
 
 Before joining Oxford, I completed my PhD in Machine Learning at the Department of Informatics, King’s College London, supervised by Prof. [Michael Spratling](https://mwspratling.codeberg.page/). During my PhD, I also interned at [Tencent’s Robotics X Lab](https://roboticsx.tencent.com/#/), working with Prof. [Lipeng Chen](https://lipeng-chen.github.io/) on enabling robots to learn throwing and catching skills from human demonstrations.
 
+You can also find me on my [Oxford departmental profile](https://www.cs.ox.ac.uk/people/lin.li/) and the [OATML group profile](https://oatml.cs.ox.ac.uk/members/lin_li/).
+
 I'm always open to collaborations and connections, so feel free to get in touch! I'm also looking for self-motivated students to explore exciting research directions together — if you're interested, reach out and let's grab a (cyber) ☕.
