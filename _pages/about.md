@@ -24,8 +24,8 @@ Before joining Oxford, I completed my PhD in Machine Learning at the Department 
 
 You can also find me on my [Oxford departmental profile](https://www.cs.ox.ac.uk/people/lin.li/) and the [OATML group profile](https://oatml.cs.ox.ac.uk/members/lin_li/).
 
-🚀 **I’m hiring!** I’m recruiting a **Research Assistant in AI Safety** at Oxford to work with Prof Yarin Gal and me on generative AI, safety, and security — [**apply by 11 September 2026**](https://www.cs.ox.ac.uk/news/2543-full.html).
+🚀 **I’m hiring!** I’m recruiting a **Research Assistant in AI Safety** at Oxford to work with Prof Yarin Gal and me on generative AI, safety, and security — [apply by 11 September 2026](https://www.cs.ox.ac.uk/news/2543-full.html).
 
-🎓 **MSc thesis projects:** I’m open to supervising **Oxford MSc students** on thesis projects in AI safety and security. I have several well-developed project ideas available, but I also welcome student-proposed topics — see [**an example project from last year**](https://www.cs.ox.ac.uk/teaching/studentprojects/1059.html) and get in touch if interested.
+🎓 **MSc thesis projects:** I’m open to supervising **Oxford MSc students** on thesis projects in AI safety and security. I have several well-developed project ideas available, but I also welcome student-proposed topics — see [an example project from last year](https://www.cs.ox.ac.uk/teaching/studentprojects/1059.html) and get in touch if interested.
 
 ☕ I'm always open to **collaborations and connections**, so feel free to drop me an (cold) email!
